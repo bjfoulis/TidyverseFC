@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: Tidyverse FC
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -23,7 +23,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: Learn Football Data Science Skills with R
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
@@ -32,10 +32,10 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    #alt: Logo
+  # height: 25
+    url: logoTVFC.png
+   # width: 225
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
